@@ -1,0 +1,2 @@
+- [user-profile](user.md) — User is the project owner, prefers comprehensive bilingual docs with requirement ID tables and code-accurate details
+- [qiispace-project-context](project.md) — Full QIISPACE project context: tech stack, 4 pages, 6 composables, known issues discovered 2026-06-02
